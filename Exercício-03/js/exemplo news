@@ -1,0 +1,7 @@
+let trabalho= {
+    "salario": 34400.00,
+    "cargo": "dev jr",
+    pagar: function (){
+        console.log("pagou boletos")
+    }
+}
